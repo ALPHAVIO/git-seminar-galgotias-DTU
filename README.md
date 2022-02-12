@@ -3,3 +3,4 @@
 This is a git seminar for Galgotias university and DTU.
 
 Sona Varshney
+tanuj
